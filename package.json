@@ -1,7 +1,7 @@
 {
-  "name": "pomodoro",
+  "name": "webpack2",
   "version": "1.0.0",
-  "description": "\"# pomodoro\"",
+  "description": "webpack 2 setup",
   "main": "app.js",
   "scripts": {
     "start": "webpack-dev-server -d --watch",
@@ -12,11 +12,11 @@
     "url": "git+https://github.com/VeronicaM/pomodoro.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VeronicaM/pomodoro/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/VeronicaM/pomodoro#readme",
+  "homepage": "https://github.com/VeronicaM/webpack-setup#readme",
   "devDependencies": {
     "autoprefixer-loader": "^3.2.0",
     "babel-core": "^6.22.1",
